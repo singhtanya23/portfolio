@@ -1,0 +1,229 @@
+body{
+    background-color: rgb(66, 62, 57);
+}
+.navbar{
+    height: 80px;
+}
+
+.nav-link{
+    font-weight: 300;
+   
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  margin: 0px;
+  padding: 0%;
+  
+  
+}
+
+.image1{
+    width: 1349px;
+    height: 700px;
+   background-position: center;
+   opacity: 60%;
+
+   
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  font-family: 'Staatliches', cursive;
+}
+
+.services{
+    text-align: center;
+    margin: 5% 25%; 5%;
+    padding: 3%;
+    color: azure;
+}
+
+.home:hover{
+    color: darkgoldenrod;
+}
+.card-group{
+    margin: 5%;
+}
+.cardedit{
+    margin: 2% 5% 2%;
+    background-color: azure;
+    
+}
+.card-img-top{
+    height: 200px;
+    
+}
+
+.textinside{
+    
+    text-align: center;
+    float: right;
+    position: relative;
+    color: azure;
+    padding: 8%;
+}
+
+.textsetting{
+    padding: 3%;
+    margin: 0% 5% 0%;
+}
+.imagetech{
+    
+    float: right;
+ padding: 0 10px 10px 0;
+ height: 300px;
+
+}
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cardd-text{
+    padding: 3% 2%;
+}
+.footer{
+    padding: 8%;
+    background-color: darkgoldenrod;
+    font-weight: 500;
+}
+.footer1{
+    text-align: center;
+    color: azure;
+}
+.footer2{
+padding-top: 5%;
+}
+.f21{
+    float: left;
+    position: relative;   
+}
+.f22{
+    float: right;
+    position: relative;   
+}
+.icon{
+    padding: 1%;
+}
+
+
+
+
+
+/* Style.css for About.html */
+.container2 {
+  position: relative;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  margin: 0px;
+  padding: 0%;
+  
+  
+}
+
+.image2{
+    width: 1349px;
+    height: 400px;
+   background-position: center;
+   opacity: 60%;
+
+   
+}
+.centered2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Staatliches', cursive;
+}
+.imageabout{
+ float:left;
+ height: 350px;
+ border-radius: 5%;
+ margin: 2%;
+
+}
+.textinside1{
+    
+    text-align: left;
+    float: right;
+    position: relative;
+    color: azure;
+    padding: 8%;
+    
+}
+
+.textsetting1{
+    padding: 5%;
+    
+}
+
+
+.aboutcontact{
+    padding: 10%;
+    color: azure;
+    float: left;
+    position: relative;
+}
+.btn-about{
+    float: right;
+    position: relative;
+    margin: 13%;
+    margin-right: 25%;
+}
+.abouthead{
+   color: azure;
+   font-size: 2rem;
+   font-weight: bold;
+
+}
+.cardedit2{
+   background-color: azure;
+    
+}
+.cardabout{
+    padding: 8%;
+}
+
+
+
+/* Style.css for services.html */
+.section1{
+    padding: 5%;
+}
+.section2{
+    padding: 5%;
+}
+.service:hover{
+ background-color: goldenrod;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
+
+
+
+/* Style.css for contact.html */
+.map{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 3%
+}
+.form{
+    padding: 6%;
+}
+.formhead{
+    color: azure;
+    text-align: center;
+}
+.contact2{
+    position: relative;
+    float: right;
+}
